@@ -60,7 +60,7 @@ kit_ger_pl = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",9],["HANDGUN MAG",2],["B_IR_Grenade",1],["SmokeShellBlue",1],["SmokeShell",1]]],
-	["<BACKPACK ITEMS >> ",[["Chemlight_green",3],["Chemlight_blue",3],["B_IR_Grenade",2],["SmokeShellBlue",2],["SmokeShellRed",2],["SmokeShell",2],["HandGrenade",3]]]
+	["<BACKPACK ITEMS >> ",[["Chemlight_green",3],["Chemlight_blue",3],["B_IR_Grenade",2],["SmokeShellBlue",2],["SmokeShellRed",2],["SmokeShell",2],["HandGrenade",3],["Laserbatteries",2]]]
 ];
 kit_ger_sl = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_JPC_Fleck_Light","tf_rt1523g_big_bwmod","CUP_H_OpsCore_Covered_Fleck_NoHS","G_Bandanna_khk"],
@@ -70,7 +70,7 @@ kit_ger_sl = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",9],["HANDGUN MAG",2],["B_IR_Grenade",1],["SmokeShellBlue",1],["SmokeShell",1]]],
-	["<BACKPACK ITEMS >> ",[["Chemlight_green",3],["Chemlight_blue",3],["B_IR_Grenade",2],["SmokeShellBlue",2],["SmokeShellRed",2],["SmokeShell",2],["HandGrenade",3]]]
+	["<BACKPACK ITEMS >> ",[["Chemlight_green",2],["Chemlight_blue",2],["B_IR_Grenade",2],["SmokeShellBlue",2],["SmokeShellRed",2],["SmokeShell",2],["HandGrenade",3],["Laserbatteries",2]]]
 ];
 kit_ger_jtac = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_JPC_Fleck_Light","tf_rt1523g_big_bwmod","CUP_H_OpsCore_Covered_Fleck_NoHS","G_Bandanna_khk"],
@@ -80,7 +80,7 @@ kit_ger_jtac = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",9],["HANDGUN MAG",2],["B_IR_Grenade",1],["SmokeShellBlue",1],["SmokeShell",1]]],
-	["<BACKPACK ITEMS >> ",[["Chemlight_green",3],["Chemlight_blue",3],["B_IR_Grenade",2],["SmokeShellBlue",2],["SmokeShellRed",2],["SmokeShell",2],["HandGrenade",3]]]
+	["<BACKPACK ITEMS >> ",[["Chemlight_green",3],["Chemlight_blue",3],["B_IR_Grenade",2],["SmokeShellBlue",2],["SmokeShellRed",2],["SmokeShell",2],["HandGrenade",3],["Laserbatteries",2]]]
 ];
 kit_ger_ftl = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_JPC_Fleck_Light","CUP_B_GER_Medic_Flecktarn","CUP_H_OpsCore_Covered_Fleck_NoHS","G_Bandanna_khk"],
@@ -90,7 +90,7 @@ kit_ger_ftl = [
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",9],["HANDGUN MAG",2],["SmokeShellBlue",1],["SmokeShell",1]]],
-	["<BACKPACK ITEMS >> ",[["HandGrenade",3],["SmokeShell",2]]]
+	["<BACKPACK ITEMS >> ",[["HandGrenade",3],["SmokeShell",2],["Laserbatteries",2]]]
 ];
 kit_ger_r = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_JPC_Fleck_Light","CUP_B_GER_Medic_Flecktarn","CUP_H_OpsCore_Covered_Fleck_NoHS","G_Bandanna_khk"],
